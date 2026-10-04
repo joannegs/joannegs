@@ -1,10 +1,3 @@
-<!--
-╭──────────────────────────────────────────────────────────────╮
-│                    JOANNE SILVA                               │
-│             Software Engineer · Creative Thinker              │
-╰──────────────────────────────────────────────────────────────╯
--->
-
 <div align="center">
 
 # Joanne Silva
@@ -14,8 +7,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3045?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3045?style=flat-square\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-7C3045?style=flat-square\&logo=gmail\&logoColor=white)](mailto:joannegssilva@gmail.com)
 
 </div>
 
@@ -28,7 +20,6 @@
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joannegs&layout=compact&hide_border=true&bg_color=00000000&title_color=9B5268&text_color=999999" alt="Most used programming languages"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=joannegs&bg_color=00000000&color=9B5268&line=9B5268&point=C6A66B&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
