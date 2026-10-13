@@ -2,7 +2,7 @@
 
 # Joanne Silva
 
-### Software Engineer · Frontend Architect
+### Software Engineer · Frontend w/ Microfrontend
 
 
 <br/>
